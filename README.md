@@ -10,4 +10,8 @@
 ### This poses a challenge in both seeing the content at a glance, as well as potential issues with modelig efforts such as colinearity. 
 ### I will attempt to reduce the number of variables using both clinical knowledge, and using methods to find significant factors. 
 
+### I used histograms, scatter plots, violin plots, correlation matrices to study each variable as well as relationships between variables. 
+
 ## Exploratory Data Analysis helped me uncover a few different important variables, as well as to get a sense of attributes of the data such as age distribution
+
+### Upon finding interesting information such as correlation, I used Hypothesis testing and bootstrapping to determine if an observation was true or not. 
