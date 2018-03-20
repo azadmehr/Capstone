@@ -7,7 +7,7 @@
 ## - I will also attempt to un-earth the underlying relationships between the various data elements and data points using more advance machine learning methods
 
 ## My code is broken down into EDA/Correlation study, Hypotheses Testing and Random Forest Classifiers to further understand my data.
-## ------------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------
 
 # EDA and Correlation:
 
@@ -19,13 +19,13 @@
 ### I used histograms, scatter plots, violin plots, correlation matrices to study each variable as well as relationships between variables. 
 
 ## Exploratory Data Analysis helped me uncover a few different important variables, as well as to get a sense of attributes of the data such as age distribution
-## ------------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------
 
 # Hypothesis Testing:
 
 ## Upon finding interesting information such as correlation, I used Hypothesis testing and bootstrapping to determine if an observation was true or not. 
 
-## ------------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------
 
 # Random Forest Classifiers:
 
